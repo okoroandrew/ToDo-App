@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDo App</string>
+    <string name="todo">TODO</string>
+    <string name="enter_task">Enter Task</string>
+    <string name="important">Important</string>
+    <string name="save">Save</string>
+    <string name="important_flag">iMporTanT</string>
+</resources>
